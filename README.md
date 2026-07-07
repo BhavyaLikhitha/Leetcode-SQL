@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0595-big-countries](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/0595-big-countries/) | Easy |
 | [0626-exchange-seats](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/0626-exchange-seats/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
