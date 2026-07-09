@@ -14,4 +14,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-restaurant-growth](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/1321-restaurant-growth/) | Medium |
 | [1393-capital-gainloss](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/1393-capital-gainloss/) | Medium |
 | [3220-odd-and-even-transactions](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/3220-odd-and-even-transactions/) | Medium |
+| [3374-first-letter-capitalization-ii](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/3374-first-letter-capitalization-ii/) | Hard |
 <!---LeetCode Topics End-->
