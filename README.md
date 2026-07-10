@@ -16,4 +16,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1907-count-salary-categories](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/1907-count-salary-categories/) | Medium |
 | [3220-odd-and-even-transactions](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3374-first-letter-capitalization-ii](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/3374-first-letter-capitalization-ii/) | Hard |
+| [3421-find-students-who-improved](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/3421-find-students-who-improved/) | Medium |
 <!---LeetCode Topics End-->
