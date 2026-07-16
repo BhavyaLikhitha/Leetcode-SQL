@@ -22,4 +22,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3497-analyze-subscription-conversion](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/3497-analyze-subscription-conversion/) | Medium |
 | [3521-find-product-recommendation-pairs](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/3521-find-product-recommendation-pairs/) | Medium |
 | [3564-seasonal-sales-analysis](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/3564-seasonal-sales-analysis/) | Medium |
+| [3580-find-consistently-improving-employees](https://github.com/BhavyaLikhitha/Leetcode-SQL/tree/main/3580-find-consistently-improving-employees/) | Medium |
 <!---LeetCode Topics End-->
